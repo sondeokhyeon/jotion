@@ -1,7 +1,7 @@
 export default {
   providers: [
     {
-      domain: "https://festive-mole-37.convex.cloud",
+      domain: "https://relevant-cardinal-22.clerk.accounts.dev",
       applicationID: "convex",
     },
   ],
